@@ -1,2 +1,6 @@
 Photoshop しっかり入門 増補改訂 第2版
  - Lesson 5 レイヤーの基本操作
+
+知識ゼロからのPhotoshop
+ - L0
+ - L1 画像自動補正 
